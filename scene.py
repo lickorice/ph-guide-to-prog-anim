@@ -8,7 +8,6 @@ config.background_color = "#0d121f"
 
 class Video(Scene):
     def construct(self):
-
         # title_card = Tex(r"Let's grow up from this analogy.").move_to(3*DOWN)
         # title_card = Tex(r"Why do arrays start at 0? - Kaka-computer Mo 'Yan! \#0").move_to(3*DOWN)
         # title_card = Tex(r"\texttt{my\_array[7]}")
